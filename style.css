@@ -6,8 +6,10 @@
 
 body{
     position: relative;
+}h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 #box{
     height: 100px;
     width: 100px;
